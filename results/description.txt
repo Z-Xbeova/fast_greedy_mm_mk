@@ -1,4 +1,4 @@
-Miko≥aj Malec, Marceli Korbin
+Miko≈Çaj Malec, Marceli Korbin
 github.com/Z-Xbeova/fast_greedy_mm_mk
 D1-K=2.csv,0.00304412841796875
 D1-UNC.csv,0.013798713684082031
